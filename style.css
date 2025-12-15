@@ -64,3 +64,11 @@ ul li {
 footer {
     text-align: center;
 }
+
+.hero {
+    height: 250px;
+    background: linear-gradient(135deg, #143B70, #143B70);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
