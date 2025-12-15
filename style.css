@@ -76,8 +76,11 @@ footer {
 .header-accueil h1 {
   margin: 0;
   font-size: 48px;
+}
+.header-accueil h1 {
   color: white;
 }
+
 
 
 
