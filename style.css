@@ -64,7 +64,7 @@ ul li {
 footer {
     text-align: center;
 }
-.header-acceuil {
+.header-accueil {
   background-color: #143B70 !important;
   color: #ffffff;
 
@@ -74,10 +74,11 @@ footer {
   justify-content: center;
 }
 
-.header-acceuil h1 {
+.header-accueil h1 {
   margin: 0;
   font-size: 48px;
 }
+
 
 
 
