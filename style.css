@@ -65,5 +65,11 @@ footer {
     text-align: center;
 }
 
-
-
+.header-acceuil {
+  text-color : white
+  background-color: #143B70;
+  height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
