@@ -73,13 +73,20 @@ footer {
   margin-bottom: 40px;
 }
 
+.header-accueil {
+  background-color: #143B70;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .header-accueil h1 {
   margin: 0;
   font-size: 48px;
+  color: #ffffff; 
 }
-.header-accueil h1 {
-  color: white;
-}
+
 
 
 
