@@ -64,10 +64,20 @@ ul li {
 footer {
     text-align: center;
 }
+.header-acceuil {
+  background-color: #143B70;
+  color: #ffffff;
 
-div class{
-    background-color: #143B70;
-    padding: 60px 0;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
+
+.header-acceuil h1 {
+  margin: 0;
+  font-size: 48px;
+}
+
 
 
