@@ -66,18 +66,18 @@ footer {
 }
 .header-accueil {
   background-color: #143B70;
-  color: #ffffff;
-
   height: 200px;
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-bottom: 40px;
 }
 
 .header-accueil h1 {
   margin: 0;
   font-size: 48px;
 }
+
 
 
 
