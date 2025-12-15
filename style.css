@@ -65,7 +65,7 @@ footer {
     text-align: center;
 }
 .header-accueil {
-  background-color: #143B70 !important;
+  background-color: #143B70;
   color: #ffffff;
 
   height: 200px;
@@ -78,6 +78,7 @@ footer {
   margin: 0;
   font-size: 48px;
 }
+
 
 
 
