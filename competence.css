@@ -67,13 +67,13 @@ ul {
     padding-left: 20px;
 }
 
-ul li {
+main ul li {
     margin-bottom: 18px;
     font-size: 1.1rem;
     color: #4a5568;
 }
 
-ul li a {
+main ul li a {
     display: inline-block;
     margin-left: 10px;
     padding: 5px 12px;
@@ -86,7 +86,7 @@ ul li a {
     transition: all 0.2s ease;
 }
 
-ul li a:hover {
+main ul li a:hover {
     background-color: #143B70;
     color: white;
     transform: translateY(-1px);
