@@ -73,7 +73,8 @@ main ul li {
     color: #4a5568;
 }
 
-main ul li a {
+/* Le style s'applique uniquement aux liens qui ont la classe btn-download */
+.btn-download {
     display: inline-block;
     margin-left: 10px;
     padding: 5px 12px;
@@ -86,7 +87,7 @@ main ul li a {
     transition: all 0.2s ease;
 }
 
-main ul li a:hover {
+.btn-download:hover {
     background-color: #143B70;
     color: white;
     transform: translateY(-1px);
